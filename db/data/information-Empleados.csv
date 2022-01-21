@@ -1,0 +1,7 @@
+EmpleadoId,EmpleadoName,EmpleadoPhone,EmpleadoEmail,EmpleadoNacimiento, Area_AreaId
+1,Andres,123456789,andres@email.com, 25-JUL-2000 00:00,1
+2,Jorge,12345489,andres@email.com, 12-JUL-1995 00:00,1
+3,Carlos,12345678,carlos@email.com, 10-OCT-1991 00:00,2
+4,Daniel,98547356,daniel@email.com, 5-NOV-2000 00:00,2
+5,Carol,15687457,carol@email.com, 17-MAY-1996 00:00,3
+6,Juan,15415385,juan@email.com, 6-JUN-1997 00:00,3
